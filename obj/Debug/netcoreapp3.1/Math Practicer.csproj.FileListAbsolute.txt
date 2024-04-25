@@ -1,0 +1,28 @@
+C:\Users\z004E29H\source\repos\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.exe
+C:\Users\z004E29H\source\repos\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.deps.json
+C:\Users\z004E29H\source\repos\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.runtimeconfig.json
+C:\Users\z004E29H\source\repos\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.runtimeconfig.dev.json
+C:\Users\z004E29H\source\repos\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.dll
+C:\Users\z004E29H\source\repos\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.pdb
+C:\Users\z004E29H\source\repos\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.csproj.AssemblyReference.cache
+C:\Users\z004E29H\source\repos\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004E29H\source\repos\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.AssemblyInfoInputs.cache
+C:\Users\z004E29H\source\repos\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.AssemblyInfo.cs
+C:\Users\z004E29H\source\repos\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.csproj.CoreCompileInputs.cache
+C:\Users\z004E29H\source\repos\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.dll
+C:\Users\z004E29H\source\repos\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.pdb
+C:\Users\z004E29H\source\repos\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.genruntimeconfig.cache
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.exe
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.deps.json
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.runtimeconfig.json
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.runtimeconfig.dev.json
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.dll
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\bin\Debug\netcoreapp3.1\Math Practicer.pdb
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.csproj.AssemblyReference.cache
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.GeneratedMSBuildEditorConfig.editorconfig
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.AssemblyInfoInputs.cache
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.AssemblyInfo.cs
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.csproj.CoreCompileInputs.cache
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.dll
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.pdb
+C:\UserData\z004e29h\OneDrive - Siemens AG\Desktop\Math Practicer\obj\Debug\netcoreapp3.1\Math Practicer.genruntimeconfig.cache
